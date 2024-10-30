@@ -1,0 +1,48 @@
+.menuContainer {
+      background-color: gray;
+}
+
+.Menu-block {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      flex-wrap: wrap;
+}
+
+
+.Card {
+      width: 500px;
+      border: 1px rgb(100, 25, 25) solid;
+      padding: 15px 20px;
+      display: flex;
+      align-items: center;
+      margin: 10px;
+}
+
+.Card img {
+      height: 100px;
+      width: auto;
+
+}
+
+.Card .card-text {
+      margin: 0px 10px;
+      text-align: justify;
+      /* border-left: 2px solid black;
+      border-right: 2px solid black; */
+      padding: 0px 15px;
+}
+
+.Card h2 {
+      font-size: 25px;
+      margin: 0px 0px 10px;
+}
+
+.Card p {
+      font-size: 15px;
+}
+
+.Card h4 {
+      font-size: 20px;
+}

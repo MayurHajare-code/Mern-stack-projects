@@ -1,0 +1,59 @@
+.todos-list {
+      background-color: gray;
+      padding: 20px 0px;
+      width: 80%;
+      margin: auto;
+      box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+
+.todos-list li {
+      list-style: none;
+      border: 2px solid #000000;
+      margin: 10px 20px;
+      padding: 20px;
+}
+
+
+ .btn-group {
+      width: 80%;
+      margin: 20px auto;
+}
+
+ .btn-group .btn{
+     padding: 6px 20px;
+     background-color: rgb(37, 37, 37);
+     color: rgb(252, 252, 252);
+     font-weight: bold;
+     border: 1px solid rgb(168, 166, 166);
+     margin: 0px 0px;
+     text-transform: capitalize;
+     border-radius: 10px;
+
+ }
+
+ .btn-group .btn:hover{
+      padding: 6px 20px;
+      background-color: gray;
+      color: rgb(0, 0, 0);
+      font-weight: bold;
+      border: 1px solid rgb(255, 255, 255);
+      margin: 0px 0px;
+      text-transform: capitalize;
+      border-radius: 10px;
+      cursor: pointer;
+  }
+
+  .btn-active {
+     background-color: #4caf50; 
+     color: white;
+ }
+ 
+ .btn-inactive {
+     background-color: #f44336; 
+     color: white;
+ }
+
+ .todos-list h2 {
+      text-align: center;
+ }

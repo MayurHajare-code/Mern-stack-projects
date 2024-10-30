@@ -1,0 +1,77 @@
+.navbar{
+    background-color: #411900 !important;
+}
+
+.navbar .nav-link, .navbar .navbar-brand {
+    color: white !important;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.navbar .nav-link:hover, .navbar .navbar-brand:hover {
+    color: rgb(216, 104, 104) !important;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+/***************     carousel             *******************/
+
+
+
+.carousel {
+    height: 80vh;
+    position: relative;
+}
+
+.carousel img {
+    height: 80vh;
+}
+
+.carousel-item{
+    position: relative;
+}
+
+.carousel-caption {
+    width: 35%;
+    position: absolute;
+    top: 30%;
+    left: 15%!important;
+}
+
+.slide-2 {
+    width: 35%;
+    position: absolute;
+    top: 30%;
+    left: 50%!important;
+}
+
+.carousel-caption h2{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px 0px 20px;
+}
+
+.carousel-caption p{
+    color: white;
+    font-size: 17px;
+    text-align: justify;
+    margin: 0px 0px 20px;
+}
+
+.carousel-caption a{
+    color: black;
+    background-color: cornsilk;
+    border: 1.5px solid cornsilk;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 13px;
+    transition: all 0.5s linear;
+}
+
+.carousel-caption a:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0);
+
+}

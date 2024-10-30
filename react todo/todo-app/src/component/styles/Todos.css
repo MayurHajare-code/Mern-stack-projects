@@ -1,0 +1,49 @@
+.todo{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      
+}
+.todo-action{
+      display: flex;
+      justify-content: center;
+      margin: 0px 5%;
+}
+.todo h1 {
+      color: rgb(74, 184, 74);
+      font-size: 25px;
+      text-transform: capitalize;
+}
+
+.todo p {
+      color: rgb(44, 43, 43);
+      font-size: 15px;
+      font-weight: 600;
+}
+
+.todo .complete-btn{
+     color: rgb(255, 255, 255);
+     font-size: 35px;
+     font-weight: bold;
+     margin: 0px 10px;
+ }
+
+ .todo .complete-btn:hover{
+     color: rgb(255, 217, 0);
+     font-weight: bold;
+     cursor: pointer;
+ }
+
+ .todo .delete-btn{
+     color: rgb(74, 184, 74);
+     font-size: 35px;
+     font-weight: bold;
+     margin: 0px 10px;
+ }
+
+ .todo .delete-btn:hover{
+      color: rgb(255, 0, 0);
+      font-weight: bold;
+      cursor: pointer;
+ }

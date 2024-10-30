@@ -1,0 +1,39 @@
+.testimonialsContainer {
+      background-color: gray;
+}
+
+.testimonials-block {
+      width: 80%;
+      margin: auto;
+}
+
+.service {
+      width: 300px;
+      height: auto;
+      /* border: 1px solid black; */
+      margin: 20px auto;
+}
+
+
+.service-img {
+      width: 200px;
+      height: 200px;
+      display: block;
+      margin: 20px auto;
+      border-radius: 50%;
+}
+
+.service-name {
+      font-size: 20px;
+      font-weight: 700;
+      margin: 10px 15px 0px;
+      text-align: center;
+}
+
+.service-text {
+      font-size: 15px;
+      margin: 10px 15px;
+      font-weight: 400;
+      text-align: center;
+}
+

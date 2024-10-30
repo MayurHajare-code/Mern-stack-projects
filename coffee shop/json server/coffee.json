@@ -1,0 +1,129 @@
+{
+  "menus": [
+    {
+      "id": "m-1",
+      "img": "./assets/menu-img.jpg",
+      "name": "Coffee cup 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+      "price": "199.9"
+    },
+    {
+      "id": "m-2",
+      "img": "./assets/menu-img.jpg",
+      "name": "Coffee cup 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+      "price": "159.5"
+    },
+    {
+      "id": "m-3",
+      "img": "./assets/menu-img.jpg",
+      "name": "Coffee cup 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+      "price": "109"
+    },
+    {
+      "id": "m-4",
+      "img": "./assets/menu-img.jpg",
+      "name": "Coffee cup 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+      "price": "99.9"
+    }
+  ],
+  "services": [
+    {
+      "id": "s-1",
+      "img": "./assets/service-img.jpg",
+      "name": "Service name 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    },
+    {
+      "id": "s-2",
+      "img": "./assets/service-img.jpg",
+      "name": "Service name 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    },
+    {
+      "id": "s-3",
+      "img": "./assets/service-img.jpg",
+      "name": "Service name 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    },
+    {
+      "id": "s-4",
+      "img": "./assets/service-img.jpg",
+      "name": "Service name 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    },
+    {
+      "id": "s-5",
+      "img": "./assets/service-img.jpg",
+      "name": "Service name 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    },
+    {
+      "id": "s-6",
+      "img": "./assets/service-img.jpg",
+      "name": "Service name 6",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    }
+  ],
+  "about": [
+    {
+      "id": "a-1",
+      "img": "./assets/about-img.jpeg",
+      "title": "about us",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
+    }
+  ],
+  "contact": [
+    {
+      "id": "e8e7",
+      "name": "Mayur",
+      "email": "mayurhajare@gmail.com",
+      "phone": "8879334255",
+      "address": "panvel"
+    }
+  ], 
+  "slider" : [
+    {
+      "img" : "./assets/carosel-img-2.jpg",
+      "title" : "Lorem, ipsum dolor",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    }, 
+    {
+      "img" : "./assets/carosel-img-1.jpg",
+      "title" : "Lorem, ipsum dolor",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    }, 
+    {
+      "img" : "./assets/carosel-img-3.jpg",
+      "title" : "Lorem, ipsum dolor",
+      "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text"
+    }
+    
+  ], 
+  "gallery" : [
+    {
+      "id" : "g-1",
+      "img" : "./assets/about-img.jpeg"
+    },
+    {
+      "id" : "g-2",
+      "img" : "./assets/menu-img.jpg"
+    },
+    {
+      "id" : "g-3",
+      "img" : "./assets/about-img.jpeg"
+    },
+    {
+      "id" : "g-4",
+      "img" : "./assets/service-img.jpg"
+    },
+    {
+      "id" : "g-5",
+      "img" : "./assets/about-img.jpeg"
+    }
+    
+    
+  ]
+}

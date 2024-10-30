@@ -1,0 +1,59 @@
+.input-error {
+      border-color: red;
+}
+
+.error {
+      color: red;
+      font-size: 12px;
+}
+
+
+.add-todo {
+      background-color: gray;
+      padding: 20px 0px;
+      width: 80%;
+      margin: auto;
+      box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+.add-todo form {
+      border: 2px solid #000000;
+      margin: 10px 20px;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+}
+
+.add-todo form .form-controls {
+      margin: 0px 20px;
+}
+
+.add-todo form .form-controls label {
+      font-weight: bold;
+}
+
+.add-todo form .form-controls .input {
+      width: 350px;
+      line-height: 25px;
+      margin: 10px 0px;
+      padding: 0px 20px;
+}
+
+.add-todo form .form-controls .btn {
+      padding: 8px 20px;
+      background-color: rgb(74, 184, 74);
+      color: white;
+      font-weight: bold;
+      border: 0px;
+      margin: 10px 0px 0px;
+}
+
+.add-todo form .form-controls .btn:hover {
+      padding: 6px 20px;
+      background-color: rgba(74, 184, 74, 0);
+      color: white;
+      font-weight: bold;
+      border: 2px solid rgb(74, 184, 74);
+      border-radius: 10px;
+      cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.footer {
+    background-color : #411900;
+}
+
+.footer p {
+    color: white !important;
+    font-weight: 500;
+}
